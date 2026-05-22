@@ -117,9 +117,6 @@ Contributions are welcome! Please feel free to:
 - [ ] Comprehensive test suite
 - [ ] Advanced examples and use cases
 
-## 📧 Contact
-
-For questions and discussions, feel free to open an issue or reach out through GitHub.
 
 ---
 
