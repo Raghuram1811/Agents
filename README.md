@@ -117,10 +117,6 @@ Contributions are welcome! Please feel free to:
 - [ ] Comprehensive test suite
 - [ ] Advanced examples and use cases
 
-## 📄 License
-
-[Specify your license here - e.g., MIT, Apache 2.0, etc.]
-
 ## 📧 Contact
 
 For questions and discussions, feel free to open an issue or reach out through GitHub.
